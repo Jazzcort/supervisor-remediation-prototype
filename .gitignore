@@ -1,0 +1,9 @@
+*
+
+!/test-remediation-agent/
+!/test-remediation-agent/CLAUDE.md
+!/test-remediation-agent/prompts.txt
+!.gitignore
+!README.md
+!/media/
+!/media/demo-thumbnail.png
